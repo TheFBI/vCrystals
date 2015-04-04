@@ -1,0 +1,5 @@
+Copyright: VenomPvP, TheFBI.
+Creator: TheFBI, Spigot Build 1.7.10-1.8-R0.1-1656.
+
+This plugin was developed for VenomPvP. And VenomPvP only.
+Not for commercial use.

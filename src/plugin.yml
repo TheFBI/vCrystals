@@ -1,0 +1,7 @@
+name: vCrystals
+author: TheFBI
+version: 0.1
+main: me.thefbi.Crystals
+description: Venom crystals
+commands:
+  vcrystals:
